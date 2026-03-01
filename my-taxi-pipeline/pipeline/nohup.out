@@ -1,0 +1,2 @@
+./duckdb: Error: unknown option: -http
+Use -help for a list of options.
